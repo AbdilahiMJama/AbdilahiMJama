@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdilahi M Jama</h1>
+<h1 align="center">Ciao a tutti 👋, io sono Abdilahi M Jama</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on a machine learning project where wer use machine learning to identify if galaxies are merging or non merging. We use images from the JWST(James Webb Space Telescope)
