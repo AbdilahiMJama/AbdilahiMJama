@@ -1,9 +1,9 @@
 <h1 align="center">Ciao a tutti 👋, io sono Abdilahi M Jama</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on a machine learning project where wer use machine learning to identify if galaxies are merging or non merging. We use images from the JWST(James Webb Space Telescope)
+- 🔭 I’m currently working on a machine learning project where we use deep learning to identify lupus based on a predominant facial feature, the butterfly malar rash.
 
-- 🌱 I’m currently learning **React,JavaScript,Machine Learning**
+- 🌱 I’m currently learning **React, JavaScript, React, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI**
 
