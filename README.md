@@ -1,9 +1,7 @@
 <h1 align="center">Ciao a tutti 👋, io sono Abdilahi M Jama</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on a machine learning project where we use deep learning to identify lupus based on a predominant facial feature, the butterfly malar rash.
-
-- 🌱 I’m currently learning **JavaScript, React, Machine adn Deep Learning**
+- 🌱 I’m currently learning **JavaScript, React, Machine and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI**
 
